@@ -1,7 +1,0 @@
-16:11:38 **** Incremental Build of configuration Debug for project forloop4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\forloop4.o" "..\\src\\forloop4.c" 
-gcc -o forloop4.exe "src\\forloop4.o" 
-
-16:11:38 Build Finished. 0 errors, 0 warnings. (took 348ms)
-

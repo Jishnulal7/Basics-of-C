@@ -1,7 +1,0 @@
-12:02:39 **** Incremental Build of configuration Debug for project forlooop2 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\forlooop2.o" "..\\src\\forlooop2.c" 
-gcc -o forlooop2.exe "src\\forlooop2.o" 
-
-12:02:39 Build Finished. 0 errors, 0 warnings. (took 358ms)
-
