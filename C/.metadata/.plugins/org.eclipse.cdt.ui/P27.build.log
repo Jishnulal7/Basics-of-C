@@ -1,0 +1,7 @@
+21:02:14 **** Incremental Build of configuration Debug for project P27 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\P27.o" "..\\src\\P27.c" 
+gcc -o P27.exe "src\\P27.o" 
+
+21:02:15 Build Finished. 0 errors, 0 warnings. (took 522ms)
+

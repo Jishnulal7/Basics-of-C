@@ -1,0 +1,7 @@
+19:53:29 **** Rebuild of configuration Debug for project P21 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\P21.o" "..\\src\\P21.c" 
+gcc -o P21.exe "src\\P21.o" 
+
+19:53:30 Build Finished. 0 errors, 0 warnings. (took 396ms)
+

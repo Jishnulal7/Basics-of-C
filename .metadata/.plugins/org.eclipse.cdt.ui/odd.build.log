@@ -1,0 +1,7 @@
+12:50:21 **** Incremental Build of configuration Debug for project odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd.o" "..\\src\\odd.c" 
+gcc -o odd.exe "src\\odd.o" 
+
+12:50:21 Build Finished. 0 errors, 0 warnings. (took 353ms)
+

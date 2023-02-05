@@ -1,0 +1,7 @@
+23:07:28 **** Incremental Build of configuration Debug for project P20 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\P20.o" "..\\src\\P20.c" 
+gcc -o P20.exe "src\\P20.o" 
+
+23:07:28 Build Finished. 0 errors, 0 warnings. (took 355ms)
+

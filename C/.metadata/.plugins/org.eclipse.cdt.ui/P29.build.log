@@ -1,0 +1,7 @@
+23:05:57 **** Incremental Build of configuration Debug for project P29 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\P29.o" "..\\src\\P29.c" 
+gcc -o P29.exe "src\\P29.o" 
+
+23:05:57 Build Finished. 0 errors, 0 warnings. (took 432ms)
+

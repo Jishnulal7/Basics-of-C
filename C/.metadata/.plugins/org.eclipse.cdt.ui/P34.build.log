@@ -1,0 +1,7 @@
+06:34:48 **** Incremental Build of configuration Debug for project P34 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\P34.o" "..\\src\\P34.c" 
+gcc -o P34.exe "src\\P34.o" 
+
+06:34:48 Build Finished. 0 errors, 0 warnings. (took 671ms)
+

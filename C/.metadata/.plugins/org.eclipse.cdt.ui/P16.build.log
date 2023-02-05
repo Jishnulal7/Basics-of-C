@@ -1,0 +1,7 @@
+14:50:34 **** Incremental Build of configuration Debug for project P16 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\P16.o" "..\\src\\P16.c" 
+gcc -o P16.exe "src\\P16.o" 
+
+14:50:35 Build Finished. 0 errors, 0 warnings. (took 357ms)
+

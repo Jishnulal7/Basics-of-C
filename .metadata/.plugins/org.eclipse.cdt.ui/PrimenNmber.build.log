@@ -1,0 +1,7 @@
+15:48:21 **** Incremental Build of configuration Debug for project PrimenNmber ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PrimenNmber.o" "..\\src\\PrimenNmber.c" 
+gcc -o PrimenNmber.exe "src\\PrimenNmber.o" 
+
+15:48:22 Build Finished. 0 errors, 0 warnings. (took 359ms)
+

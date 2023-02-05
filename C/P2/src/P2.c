@@ -1,0 +1,22 @@
+/*
+ ============================================================================
+ Name        : P2.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int a;
+	setbuf(stdout,NULL);
+	printf("enter a number");
+	scanf("%d",&a);
+	printf("The number is : %d",a);
+
+	return EXIT_SUCCESS;
+}

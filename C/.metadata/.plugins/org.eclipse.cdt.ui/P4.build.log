@@ -1,0 +1,7 @@
+23:59:26 **** Rebuild of configuration Debug for project P4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\P4.o" "..\\src\\P4.c" 
+gcc -o P4.exe "src\\P4.o" 
+
+23:59:26 Build Finished. 0 errors, 0 warnings. (took 343ms)
+

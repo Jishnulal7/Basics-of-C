@@ -1,0 +1,5 @@
+13:01:43 **** Rebuild of configuration Debug for project addition ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\addition.o" "..\\src\\addition.c" 
+gcc -o addition.exe "src\\addition.o" 
+Info: Nothing to build for addition

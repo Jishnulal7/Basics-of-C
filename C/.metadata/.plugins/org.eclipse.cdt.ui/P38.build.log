@@ -1,0 +1,7 @@
+14:34:24 **** Incremental Build of configuration Debug for project P38 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\P38.o" "..\\src\\P38.c" 
+gcc -o P38.exe "src\\P38.o" 
+
+14:34:25 Build Finished. 0 errors, 0 warnings. (took 656ms)
+

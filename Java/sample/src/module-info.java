@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jishn
+ *
+ */
+module sample {
+}

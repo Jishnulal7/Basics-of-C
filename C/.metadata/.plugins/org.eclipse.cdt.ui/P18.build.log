@@ -1,0 +1,7 @@
+22:02:52 **** Incremental Build of configuration Debug for project P18 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\P18.o" "..\\src\\P18.c" 
+gcc -o P18.exe "src\\P18.o" 
+
+22:02:52 Build Finished. 0 errors, 0 warnings. (took 382ms)
+
